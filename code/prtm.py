@@ -1,6 +1,6 @@
 """rosalind answer"""
 
-file = '/Users/manavparikh/Downloads/rosalind_prtm.txt'
+file: str = '/rosalind_prtm.txt'
 
 def prtm(file: str) -> float:
     mass_table: dict = {"A":71.03711,

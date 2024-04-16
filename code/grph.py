@@ -1,6 +1,6 @@
 """rosalind answer"""
 
-file: str = '/Users/manavparikh/Downloads/rosalind_grph.txt'
+file: str = '/rosalind_grph.txt'
 
 def grph(file: str) -> str:
     infile = list(open(file).read().split())

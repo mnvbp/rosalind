@@ -1,6 +1,6 @@
 """rosalind answer"""
 
-file = "/Users/manavparikh/Downloads/rosalind_hamm(1).txt"
+file: str = "/rosalind_hamm.txt"
 
 def hamm(file: str) -> int:
     #initialize

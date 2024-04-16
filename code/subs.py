@@ -1,6 +1,6 @@
 """substring question"""
 
-file = '/Users/manavparikh/Downloads/rosalind_subs(2).txt'
+file = '/rosalind_subs.txt'
 
 
 

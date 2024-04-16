@@ -1,6 +1,6 @@
 """rosalind answer"""
 
-file = "/Users/manavparikh/Downloads/rosalind_gc(5).txt"
+file: str = "/rosalind_gc.txt"
 
 def get_key(file: str) -> list:
     rawkey: list = []

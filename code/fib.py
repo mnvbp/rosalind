@@ -1,4 +1,4 @@
-
+"""rosalind solution"""
 def reccur(n: int, k: int) -> int:
     if n == 1:
         return 1

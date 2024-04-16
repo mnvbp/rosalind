@@ -1,7 +1,7 @@
 """rosalind answer"""
 
 
-file: str = '/Users/manavparikh/Downloads/rosalind_mrna(2).txt'
+file: str = '/rosalind_mrna.txt'
 
 
 def mrna(file: str) -> int:

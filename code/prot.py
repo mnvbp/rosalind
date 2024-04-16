@@ -1,6 +1,6 @@
 "translate rna into protein"
 
-input = '/Users/manavparikh/Downloads/rosalind_prot.txt'
+file: str = '/rosalind_prot.txt'
 
 codon_table: dict = {'UUU':'F','CUU':'L','AUU':'I','GUU':'V',
                      'UUC':'F','CUC':'L','AUC':'I','GUC':'V',
