@@ -14,8 +14,8 @@ Otherwise, the solution can be ran by manually inputing information from the pro
 | [GC](/gc)   | Computing GC Content                           |        |
 | [HAMM](/hamm) | Counting Point Mutations                       |        |
 | [PROT](/prot) | Translating RNA into Protein                   |        |
-| [SUBS](/subs) | Finding a Motif in DNA                         | Overlapping string search       |
-| [GRPH](/grph) | Overlap Graphs                                 | Fun graph structures       |
+| [SUBS](/subs) | Finding a Motif in DNA                         |        |
+| [GRPH](/grph) | Overlap Graphs                                 |        |
 | [PRTM](/prtm) | Calculating Protein Mass                       |        |
 | [FIBD](/fibd) | Mortal Fibonacci Rabbits                       |         |
 | [MRNA](/mrna) | Inferring mRNA from Protein                    |         |
